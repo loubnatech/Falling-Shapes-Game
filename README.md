@@ -7,6 +7,13 @@ A fun and engaging arcade-style game built with Python's Turtle graphics library
 
 ---
 
+## Release
+
+The first official release of **Falling Shapes Game** is available on GitHub:
+
+[**Falling Shapes Game v1.0**](https://github.com/loubnatech/Falling-Shapes-Game/releases/tag/v1.0)
+
+
 ## Table of Contents
 - [About the Game](#about-the-game)
 - [Features](#features)
