@@ -2,7 +2,8 @@
 
 A fun and engaging arcade-style game built with Python's Turtle graphics library where players control a paddle to catch falling shapes.
 
-![Game Screenshot](https://via.placeholder.com/800x400.png?text=Falling+Shapes+Game+Screenshot)
+<img src="screenshout.png" alt="لقطة شاشة للعبة Falling Shapes" width="800">
+
 
 ---
 
